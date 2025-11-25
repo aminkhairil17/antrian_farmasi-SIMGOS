@@ -1,1 +1,1 @@
-`````# antrian_farmasi-SIMGOS
+# antrian_farmasi-SIMGOS
